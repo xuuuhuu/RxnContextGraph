@@ -1,0 +1,14 @@
+{
+  "split": "scaffold_split",
+  "model": "gat_edge_v4",
+  "seed": 43,
+  "gpu_id": 1,
+  "n_train": 726811,
+  "n_validation": 181703,
+  "positive_weight": 9.054101535482086,
+  "actual_epochs": 11,
+  "best_epoch": 6,
+  "best_validation_mcc": 0.9312478266009215,
+  "cpu_threads_per_worker": 4,
+  "torch_compile": true
+}

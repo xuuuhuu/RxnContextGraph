@@ -1,0 +1,14 @@
+{
+  "split": "drfp_kmeans100_greedy_split",
+  "model": "gat_edge_v4",
+  "seed": 44,
+  "gpu_id": 2,
+  "n_train": 728005,
+  "n_validation": 179957,
+  "positive_weight": 8.337707146888308,
+  "actual_epochs": 12,
+  "best_epoch": 7,
+  "best_validation_mcc": 0.899313263287495,
+  "cpu_threads_per_worker": 4,
+  "torch_compile": true
+}

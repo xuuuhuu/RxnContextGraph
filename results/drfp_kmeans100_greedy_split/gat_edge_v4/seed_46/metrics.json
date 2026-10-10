@@ -1,0 +1,24 @@
+{
+  "mcc": 0.9132522190063718,
+  "f0_5": 0.9023235644852383,
+  "precision": 0.8940207662012173,
+  "recall": 0.937136423343967,
+  "average_precision": 0.9647135077154546,
+  "ap": 0.9647135077154546,
+  "confusion_matrix": [
+    [
+      221760,
+      592
+    ],
+    [
+      335,
+      4994
+    ]
+  ],
+  "threshold": 0.5499999999999998,
+  "split": "drfp_kmeans100_greedy_split",
+  "model": "gat_edge_v4",
+  "seed": 46,
+  "threshold_source": "validation",
+  "best_epoch": 3
+}
